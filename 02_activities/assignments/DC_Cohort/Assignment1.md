@@ -205,5 +205,13 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+The NADRA provides a great example of how value systems are embedded in databases and data systems. At first glance, these systems may appear neutral or purely technical, but their underlying structures reflect deep assumptions about identity, family, and social norms. In NADRA’s case, the database enforces a rigid model of the family unit: every individual must belong to a “complete” biological family, children are registered under married parents, and patriarchal hierarchies are encoded in how family relationships are tracked. This design systematically excludes or marginalizes those whose lives do not fit these norms, such as single mothers, orphans, children born out of wedlock, and the trans-gender community.
+
+Interestingly, while it is an easy fix for programmers technically, it isn’t the same in terms of traditions. This report highlights a broader lesson about the intersection of technology and society: data systems are never neutral. They encode assumptions about social order, gender, family, and legitimacy. They privilege certain forms of identity while rendering others invisible or difficult to verify. Even when social norms evolve, these systems can lag behind, preserving outdated notions and entrenching inequality. Path dependencies in design—such as reliance on paper registries, historical definitions of family, and legacy bureaucratic structures—make these inequities persistent and difficult to rectify.
+
+For everyday data systems, the implications are important. We often interact with identity verification platforms, social services databases, or educational records assuming neutrality. Yet, as NADRA shows, the structure of a database can dictate who is “legitimate” and who is marginalized. Questions of fairness, inclusivity, and justice must therefore extend beyond policy into technical design. System architects and users alike must critically examine who is counted, whose relationships are recognized, and what assumptions are baked into the schema.
+
+It is important to consider how databases can reinforce existing power structures and social hierarchies. Reflecting on its design allows us to ask whether the systems we build—and use—promote inclusivity or exclusion, fairness or bias. While different countries may have different rituals, they should be more inclusive. Recognizing the values embedded in technical infrastructure is the first step toward creating more equitable and socially responsible data systems.
+
+
 ```
