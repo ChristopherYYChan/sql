@@ -183,5 +183,16 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+This article allows me to re-think the assumptions about what modern AI actually is. While large-language models as highly autonomous technologies—systems that “learn” from data with minimal human involvement. But this piece makes clear that behind every neural network lies a vast amount of hidden human labour, and recognizing that fundamentally changes how I understand the ethics of AI.
+
+The idea of invisible labour is really giving me a strong reflection. The article emphasizes that AI is not created by machines alone but by countless annotators, moderators, and engineers whose contributions are rarely acknowledged. This made me reflect on how easy it is, as a user, to take AI outputs at face value without considering the workers behind them—many of whom work under precarious conditions. Realizing this made the technology feel less magical and more tied to the real-world labour structures and inequalities that we often overlook.
+
+I have heard many times that AI inherits human bias, but the article helped me see how deeply this problem is rooted in decisions about data curation and labeling. Every dataset reflects certain perspectives and excludes others. When neural nets reproduce these biases, it isn’t an accident—it’s a reflection of which were included in the training process and which were not. This made me think again on how power operates not only through technology but through the human choices that shape it.
+
+Another point that challenged my thinking is the unchecked proliferation of LLMs. The essay notes how easily models can be replicated and fine-tuned, enabling both creative uses and harmful misuse. It is hard to find a good balance between innovation and responsibility: while widespread access to AI can empower people, it can also leads to the confusion of “who is the real one who made the decision”. The more widely a model spreads, the harder it becomes to understand who is responsible for mistakes, harm, or misuse.
+
+The discussion on moderation also made me reconsider the human workers bear the burden of keeping AI “safe.” This raised ethical questions for me about whose well-being is sacrificed for the convenience of AI users like me.
+
+
+
 ```
